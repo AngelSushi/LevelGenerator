@@ -58,3 +58,13 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+LevelGenerator/Library/
+
+LevelGenerator/ProjectSettings/
+
+LevelGenerator/Temp/
+
+LevelGenerator/Logs/
+
+LevelGenerator/UserSettings/
